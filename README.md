@@ -1,8 +1,8 @@
 # Matrix Send
 
-*Send mail to Matrix room*
+*Send mail to a Matrix room*
 
-## How
+## Quick how
 
 Copy `config.dist.py` to `config.py`.
 
